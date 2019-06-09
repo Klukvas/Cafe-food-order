@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x graph.ui -o garph.py
